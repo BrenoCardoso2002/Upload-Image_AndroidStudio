@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Image in Firebase Storage</string>
+    <string name="img">Imagem escolhida</string>
+    <string name="choice_image">Escolha imagem</string>
+    <string name="send_image">Enviar imagem</string>
+</resources>
